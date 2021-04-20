@@ -1,6 +1,7 @@
 body {
     background-color: rgb(238, 238, 245);
     margin: 0;
+    
 }
 
 footer {
@@ -9,9 +10,9 @@ footer {
     bottom: 0;
     font-size: 20px;
     color: aliceblue;
-    line-height: 30px;
-    width: 100%;
-    padding-left: 15px;
+    line-height: 35px;
+    width: 1502px;
+    padding-left: 16px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: rgb(151, 187, 246);
     background: linear-gradient(blue, grey);
@@ -27,6 +28,7 @@ footer {
 .snakeTopo {
     background-color: rgb(184, 179, 179);
     height: 50px;
+    width: 100%;
 
 }
 
@@ -55,4 +57,10 @@ footer {
     height: 20px;
     float: right;
     padding: 05px;
+}
+
+#gameSnake {
+    height: 90vh;
+    width:218vh;
+    display: flex;
 }
