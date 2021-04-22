@@ -1,4 +1,4 @@
-# Projeto "Snake Simple Game" DIO
+# Projeto "Snake Simple Game" DIO​!​ ​ ​ ​ ​ ​ ​ :snake:
 
 ## Nome: snake simple game
 
