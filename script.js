@@ -68,7 +68,7 @@
         criarSnake();
         drawFood();
 
-     //Direcionamento da "snake" dentro do jogo
+    //Direcionamento da "snake" dentro do jogo
         let snakeX = snake[0].x;
         let snakeY = snake[0].y;
 
@@ -77,8 +77,8 @@
         if (direction == "up") snakeY -= box;
         if (direction == "down") snakeY += box;
 
-     //"snake.pop" e responsavel pela subtração do utimo elemento da snake (simula movimento para frente).
-     // condição de movimento da "food" dentro do game
+    //"snake.pop" e responsavel pela subtração do utimo elemento da snake (simula movimento para frente).
+    // condição de movimento da "food" dentro do game
         if (snakeX != food.x || snakeY != food.y) {
             snake.pop(); 
         } else {
