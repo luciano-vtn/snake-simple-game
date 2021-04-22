@@ -1,9 +1,8 @@
-# Projeto "Snake Simple Game" DIO​!​ ​ ​ ​ ​ ​ ​ :snake:
+# Projeto "Snake Simple Game" DIO​!​ ​ ​ ​ ​ ​ ​ :snake
 
 ## Nome: snake simple game
 
-*Habilidades: HTML 5; CSS 3; JAVASCRIPT*
+//*Habilidades: HTML 5; CSS 3; JAVASCRIPT*//
 
 Neste projeto foram trapalhadas habilidades e conhecimentos adquiridos durante o “Bootcamp” de SPTech Desenvolvimento Fullstack da DIO. (Digital Innovation One).
 ______________________________________________________________________________
-
